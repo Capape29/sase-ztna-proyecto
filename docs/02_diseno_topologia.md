@@ -39,5 +39,5 @@ El hub debe registrar:
 - Logs de aceptación/denegación en el firewall.
 
 ## Diagrama
-
+![Topología SASE/ZTNA](../diagrams/topologia.png)
 
