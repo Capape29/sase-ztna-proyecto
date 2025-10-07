@@ -7,8 +7,8 @@ El entorno emula un **SASE casero**, donde ninguna red interna es expuesta por d
 ---
 
 ## 👥 Integrantes
-- **Camilo Iván Palacio Pérez - 2224643**
-- **Daniel**
+- **Camilo Iván Palacio Pérez**
+- **Daniel Alejandro Peña Hurtado**
 
 ---
 
